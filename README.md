@@ -24,6 +24,11 @@ Independence of the error term where it assumes that all independent variable ar
 <br>![result](image/coll.png)
 
 <br></br>
+## Model Summary
+Top 3 predictors(variable) that is the most significant to the model
+<br>![result](image/summ.png)
+
+<br></br>
 ## Analysis of Variance (ANOVA) 
 Determine whether there are any statistically significant differences between the means of three groups.
 <br>![result](image/anova.png)
