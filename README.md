@@ -4,5 +4,5 @@ Using dataset from kaggle dataset 'Football Data: Expected Goals and Other Metri
 ## Multivariate Normality
 <br>Normality of the error term distribution
 <br>![result](image/normality1.png)
-<br>![result](image/normality1.png)
-<br>![result](image/normality1.png)
+<br>![result](image/normality2.png)
+<br>![result](image/normality3.png)
