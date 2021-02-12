@@ -7,7 +7,7 @@ Dataset Link : https://www.kaggle.com/slehkyi/extended-football-stats-for-europe
 <br>![result](image/normality1.png)
 <br>![result](image/normality2.png)
 <br>![result](image/normality3.png)
-Normality of the error term distribution
+<br>Normality of the error term distribution
 <br></br>
 ## Linear relationship 
 
