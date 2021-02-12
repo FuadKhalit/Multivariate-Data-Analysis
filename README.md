@@ -22,3 +22,19 @@ Constant variance of the error terms where it assume of error term are similar a
 ## Minimum Multicollinearity 
 Independence of the error term where it assumes that all independent variable are not highly correlated with each other 
 <br>![result](image/coll.png)
+
+<br></br>
+## Analysis of Variance (ANOVA) 
+Determine whether there are any statistically significant differences between the means of three groups.
+<br>![result](image/anova.png)
+
+<br></br>
+## Coefficients of Regression 
+Y = 0.210+0.989X1-0.049X2+0.150X3
++ Y=Goal scored against opponent (scored)
++ X1=Expected Goal (xG)
++ X2= Passes completed within an estimated 20 yards of goal (deep)
++ X3= Number of goals missed in games (missed)
+
+
+<br>![result](image/coef.png)
